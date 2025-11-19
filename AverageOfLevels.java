@@ -8,7 +8,7 @@ class BinaryTreeNode {
     BinaryTreeNode(int data) {
         this.data = data;
         left = null;
-        right = null;
+        right = null; 
     }
 }
 
@@ -72,3 +72,4 @@ public class AverageOfLevels {
         System.out.println(avg());
     }
 }
+
